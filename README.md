@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - proximo rico
 - fora da matrix
 - shape vem!!!!
+## ferramentas e tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
