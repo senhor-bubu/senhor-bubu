@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- made in sp
+- programador de sucesso
+- proximo rico
+- fora da matrix
+- shape vem!!!!
