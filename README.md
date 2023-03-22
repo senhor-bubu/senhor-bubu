@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- made in sp
-- programador de sucesso
-- proximo rico
-- fora da matrix
-- shape vem!!!!
+- 📍são paulo
+- 👨‍💻programador de sucesso
+- 💸proximo rico
+- 📀artista revelação
 ## ferramentas e tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+          
